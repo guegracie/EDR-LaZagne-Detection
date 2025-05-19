@@ -1,0 +1,49 @@
+{
+  "event": {
+    "BASE_ADDRESS": 140700132179968,
+    "COMMAND_LINE": "\"C:\\Users\\Administrator\\Downloads\\LaZagne.exe\"",
+    "FILE_IS_SIGNED": 0,
+    "FILE_PATH": "C:\\Users\\Administrator\\Downloads\\LaZagne.exe",
+    "HASH": "dc06d62ee95062e714f2566c95b8edaabfd387023b1bf98a09078b84007d5268",
+    "MEMORY_USAGE": 4861952,
+    "PARENT": {
+      "BASE_ADDRESS": 140699128365056,
+      "COMMAND_LINE": "\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" ",
+      "FILE_IS_SIGNED": 1,
+      "FILE_PATH": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "HASH": "38f4384643b3fa0de714d2367b712c2e0fa1c89e2cfd131ae6b831ad962b1033",
+      "MEMORY_USAGE": 1191936,
+      "PARENT_ATOM": "3606ff1e32a5e96841f3dac76827b5dc",
+      "PARENT_PROCESS_ID": 3960,
+      "PROCESS_ID": 3144,
+      "THIS_ATOM": "179366a6bdc7b61d3543a0226829feb5",
+      "THREADS": 1,
+      "TIMESTAMP": 1747582645581,
+      "USER_NAME": "EC2AMAZ-A8B9MBN\\Administrator"
+    },
+    "PARENT_PROCESS_ID": 3144,
+    "PROCESS_ID": 3928,
+    "THREADS": 2,
+    "USER_NAME": "EC2AMAZ-A8B9MBN\\Administrator"
+  },
+  "routing": {
+    "arch": 2,
+    "did": "",
+    "event_id": "4e487c6e-b539-4d3e-9aa1-8733d296ff5d",
+    "event_time": 1747582688066,
+    "event_type": "NEW_PROCESS",
+    "ext_ip": "3.15.148.200",
+    "hostname": "ec2amaz-a8b9mbn.us-east-2.compute.internal",
+    "iid": "32d6bc99-b6ae-419f-a629-a646370afa7e",
+    "int_ip": "172.31.10.83",
+    "latency": 1425,
+    "moduleid": 2,
+    "oid": "b9a25b4c-b8f4-45bb-9194-a340aef214c1",
+    "parent": "179366a6bdc7b61d3543a0226829feb5",
+    "plat": 268435456,
+    "sid": "94b1c0d4-de09-4105-9b1f-4ece3b0fcd17",
+    "tags": [],
+    "this": "3cf5510f63f98f0f4234811f6829fee0"
+  },
+  "ts": "2025-05-18 15:38:08"
+}
